@@ -1,0 +1,14 @@
+{
+  "name": "@username/mywebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "dotnet publish -c Release"
+  },
+  "author": "",
+  "license": "ISC"
+}

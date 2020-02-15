@@ -1,0 +1,145 @@
+[
+    {
+        "StudentID": "57258",
+        "GradeYear": "1",
+        "SchoolYear": "99",
+        "Semester": "1",
+        "Subject": "",
+        "ExamName": "期末考",
+        "Score": "78",
+        "DisplayOrder": "3",
+        "PR": ""
+    },
+    {
+        "StudentID": "57258",
+        "GradeYear": "1",
+        "SchoolYear": "99",
+        "Semester": "1",
+        "Subject": "",
+        "ExamName": "第一次月考",
+        "Score": "82",
+        "DisplayOrder": "1",
+        "PR": ""
+    },
+    {
+        "StudentID": "57258",
+        "GradeYear": "1",
+        "SchoolYear": "99",
+        "Semester": "1",
+        "Subject": "",
+        "ExamName": "第二次月考",
+        "Score": "72",
+        "DisplayOrder": "2",
+        "PR": ""
+    },
+    {
+        "StudentID": "57258",
+        "GradeYear": "1",
+        "SchoolYear": "99",
+        "Semester": "1",
+        "Subject": "",
+        "ExamName": "第一次月考",
+        "Score": "68",
+        "DisplayOrder": "1",
+        "PR": ""
+    },
+    {
+        "StudentID": "57258",
+        "GradeYear": "1",
+        "SchoolYear": "99",
+        "Semester": "1",
+        "Subject": "",
+        "ExamName": "期末考",
+        "Score": "66",
+        "DisplayOrder": "3",
+        "PR": ""
+    },
+    {
+        "StudentID": "57258",
+        "GradeYear": "1",
+        "SchoolYear": "99",
+        "Semester": "1",
+        "Subject": "",
+        "ExamName": "第二次月考",
+        "Score": "74",
+        "DisplayOrder": "2",
+        "PR": ""
+    },
+    {
+        "StudentID": "57258",
+        "GradeYear": "1",
+        "SchoolYear": "99",
+        "Semester": "1",
+        "Subject": "Math",
+        "ExamName": "第一次月考",
+        "Score": "85",
+        "DisplayOrder": "1",
+        "PR": ""
+    },
+    {
+        "StudentID": "57258",
+        "GradeYear": "1",
+        "SchoolYear": "99",
+        "Semester": "1",
+        "Subject": "Math",
+        "ExamName": "期末考",
+        "Score": "75",
+        "DisplayOrder": "3",
+        "PR": ""
+    },
+    {
+        "StudentID": "57258",
+        "GradeYear": "1",
+        "SchoolYear": "99",
+        "Semester": "1",
+        "Subject": "Math",
+        "ExamName": "第二次月考",
+        "Score": "70",
+        "DisplayOrder": "2",
+        "PR": ""
+    },
+    {
+        "StudentID": "57258",
+        "GradeYear": "1",
+        "SchoolYear": "99",
+        "Semester": "1",
+        "Subject": "基礎物理",
+        "ExamName": "第一次月考",
+        "Score": "57.5",
+        "DisplayOrder": "1",
+        "PR": ""
+    },
+    {
+        "StudentID": "57258",
+        "GradeYear": "1",
+        "SchoolYear": "99",
+        "Semester": "1",
+        "Subject": "基礎物理",
+        "ExamName": "第二次月考",
+        "Score": "100",
+        "DisplayOrder": "2",
+        "PR": ""
+    },
+    {
+        "StudentID": "57258",
+        "GradeYear": "1",
+        "SchoolYear": "99",
+        "Semester": "1",
+        "Subject": "基礎物理",
+        "ExamName": "期末考",
+        "Score": "100",
+        "DisplayOrder": "3",
+        "PR": ""
+    },
+    {
+        "StudentID": "57258",
+        "GradeYear": "1",
+        "SchoolYear": "99",
+        "Semester": "1",
+        "Subject": "音樂",
+        "ExamName": "第一次月考",
+        "Score": "95",
+        "DisplayOrder": "1",
+        "PR": ""
+    }
+]
